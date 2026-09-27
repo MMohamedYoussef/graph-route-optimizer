@@ -1,0 +1,38 @@
+{
+  "dijkstra": {
+    "path": [
+      "R0C0",
+      "R1C0",
+      "R1C1",
+      "R2C1",
+      "R3C1",
+      "R3C2",
+      "R4C2",
+      "R4C3",
+      "R5C3",
+      "R5C4",
+      "R5C5"
+    ],
+    "minutes": 15.032452,
+    "distance_km": 11.219901,
+    "expanded_nodes": 36
+  },
+  "astar": {
+    "path": [
+      "R0C0",
+      "R1C0",
+      "R1C1",
+      "R2C1",
+      "R3C1",
+      "R3C2",
+      "R4C2",
+      "R4C3",
+      "R5C3",
+      "R5C4",
+      "R5C5"
+    ],
+    "minutes": 15.032452,
+    "distance_km": 11.219901,
+    "expanded_nodes": 30
+  }
+}

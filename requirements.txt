@@ -1,0 +1,4 @@
+networkx==3.7
+plotly==7.1.0
+matplotlib==3.11.2
+pytest==9.1.1
